@@ -1,0 +1,13 @@
+git init
+git config --global user.name "githubusername"
+git config --global user.email "email"
+git status
+git add .
+git status
+git commit -m "filename"
+git branch
+git push master
+git remote
+ git remote add origin https://github.com/VatFranklin/Projease.git
+git remote
+git push origin master
